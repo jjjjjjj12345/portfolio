@@ -16,7 +16,7 @@
 </br>
 
 ## :pushpin: Projects
-### 1. [포트폴리오](https://github.com/2023-SMHRD-IS-AI1/RepoUp))
+### 1. [포트폴리오](https://github.com/2023-SMHRD-IS-AI1/RepoUp)
 >나의 프론트엔드 포트폴리오 (개인 프로젝트)  
 >개발 기간: 2023.10.01 ~ 2023.11.05  
 >  
