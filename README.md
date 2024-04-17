@@ -18,8 +18,8 @@
 
 ## :pushpin: Projects
 ### 1. [포트폴리오](https://github.com/2023-SMHRD-IS-AI1/RepoUp)
->나의 프론트엔드 포트폴리오 (개인 프로젝트)  
->개발 기간: 2023.10.01 ~ 2023.11.05  
+>나의 프론트엔드 포트폴리오 (팀 프로젝트)  
+>개발 기간: 2024.10.05 ~ 2023.10.25  
 >  
 >기술 스택:  
 >Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
@@ -31,7 +31,7 @@
 
 ### 2. [두 번째 프로젝트](https://github.com/JungHyung2/gitio.io)
 >두 번째 프로젝트 간략 소개  (팀 프로젝트)  
->개발 기간: 2020.7.18 ~ 2020.11.5  
+>개발 기간: 2024.01.18 ~ 2024.02.18  
 >  
 >기술 스택:  
 >Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
@@ -42,8 +42,8 @@
 ---
 
 ### 3. [세 번째 프로젝트](https://github.com/JungHyung2/gitio.io)
->세 번째 프로젝트 간략 소개  (개인 프로젝트)  
->개발 기간: 2018.1.18 ~ 2018.4.5  
+>세 번째 프로젝트 간략 소개  (팀 프로젝트)  
+>개발 기간: 2024.03.15 ~ 2024.04.15  
 >  
 >기술 스택:  
 >Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
