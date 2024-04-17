@@ -13,7 +13,7 @@
 - 깃헙: https://github.com/jjjjjjj12345
 
 ## :pushpin: STacks 기술 스택
-JavaScript
+-JavaScript
 swift를 사용하여 앱을 개발해 본 경험이 있습니다.
 swift에서 지향하는 객체지향, 함수형 프로그래밍에 대해 이해하고 있습니다.
 개발문서를 읽고 원하는 기능을 개발 할 수 있습니다.
@@ -66,3 +66,7 @@ Github,Gitlab등을 사용하여 프로젝트 관리 경험이 있습니다.
 >H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
 >  
 >[프로젝트 상세 설명](https://github.com/JungHyung2/gitio.io) 참고
+
+여기까지 읽어주셔서 감사합니다.
+부족한 부분이나 더 궁금하신 내용이 있다면 이슈로 남겨주시겨나, jaehee094503@gmail.com으로 연락주세요.
+감사합니다.
