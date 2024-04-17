@@ -12,7 +12,18 @@
 - 블로그: 
 - 깃헙: https://github.com/jjjjjjj12345
 
+## :pushpin: STacks 기술 스택
+JavaScript
+swift를 사용하여 앱을 개발해 본 경험이 있습니다.
+swift에서 지향하는 객체지향, 함수형 프로그래밍에 대해 이해하고 있습니다.
+개발문서를 읽고 원하는 기능을 개발 할 수 있습니다.
 
+JAVA
+Java를 사용하여 
+
+Python
+
+Git
 
 </br>
 
