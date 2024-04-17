@@ -38,26 +38,26 @@
 
 
 ## :pushpin: Contact
-- 이메일: jaehee094503@gmail.com
-- 블로그: 
-- 깃헙: https://github.com/jjjjjjj12345
+> - 이메일: jaehee094503@gmail.com
+> - 블로그: 
+> - 깃헙: https://github.com/jjjjjjj12345
 
 ## :pushpin: Projects
 
 
 
 ### 세 번째 프로젝트[GPT를 활용한 메뉴추천과 주문및 웨이팅 플랫폼 서비스]
-자영업자용(https://github.com/leehakgun/mealjoy_owner) 고객용(https://github.com/Parkjinew/mealjoy_user)
-관리자용(https://github.com/jjjjjjj12345/mealjoy_admin)
-
-세 번째 프로젝트 간략 소개 (팀 프로젝트)
-개발 기간: 2024.03.15 ~ 2024.04.15
-
-기술 스택:
-Java / Spring Boot / MySQL 8.5.26 / Python 3.9 / Fast API / Tomcat / Mybatis
-React Native/ Javascript
-PortOne API / Kakao Map API
-LSTM, KoELECTRA, Fast API
+>자영업자용(https://github.com/leehakgun/mealjoy_owner) 고객용(https://github.com/Parkjinew/mealjoy_user)
+>관리자용(https://github.com/jjjjjjj12345/mealjoy_admin)
+>
+>세 번째 프로젝트 간략 소개 (팀 프로젝트)
+>개발 기간: 2024.03.15 ~ 2024.04.15
+>
+>기술 스택:
+>Java / Spring Boot / MySQL 8.5.26 / Python 3.9 / Fast API / Tomcat / Mybatis
+>React Native/ Javascript
+>PortOne API / Kakao Map API
+>LSTM, KoELECTRA, Fast API
 
 
 ### 2. 두 번째 프로젝트  (팀 프로젝트)(https://github.com/2023-SMHRD-IS-AI1/RepoUp)
@@ -74,13 +74,14 @@ LSTM, KoELECTRA, Fast API
 ---
 
 ### 1 /첫 번째 프로젝트 [아파트 데이터 분석]
-아파트 데이터 분석 (반포자이팀)
-개발 기간: 2023.11.08. ~ 2023.11.10
+>아파트 데이터 분석 (반포자이팀)
+>개발 기간: 2023.11.08. ~ 2023.11.10
 
-기술 스택:
-HTML/CSS / Python 3.9
+>기술 스택:
+>HTML/CSS / Python 3.9
 
 ---
 </br>여기까지 읽어주셔서 감사합니다.
-</br>부족한 부분이나 더 궁금하신 내용이 있다면 이슈로 남겨주시겨나, jaehee094503@gmail.com으로 연락주세요.
+</br>부족한 부분이나 더 궁금하신 내용이 있다면 이슈로 남겨주시겨나, 
+</br>jaehee094503@gmail.com으로 연락주세요.
 </br>감사합니다.
