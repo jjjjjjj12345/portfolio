@@ -33,8 +33,8 @@
 </br>
 
 ## :pushpin: Projects
-### 1. [포트폴리오](https://github.com/2023-SMHRD-IS-AI1/RepoUp)
->나의 프론트엔드 포트폴리오 (팀 프로젝트)  
+### 1. [포트폴리오](https://github.com/JungHyung2/gitio.io)
+>나의 프론트엔드 포트폴리오 
 >개발 기간: 2024.10.05 ~ 2023.10.25  
 >  
 >기술 스택:  
@@ -45,8 +45,8 @@
 
 ---
 
-### 2. [두 번째 프로젝트](https://github.com/JungHyung2/gitio.io)
->두 번째 프로젝트 간략 소개  (팀 프로젝트)  
+### 2. [첫 번째 프로젝트](https://github.com/2023-SMHRD-IS-AI1/RepoUp)
+>첫 번째 프로젝트 간략 소개  (팀 프로젝트)  
 >개발 기간: 2024.01.18 ~ 2024.02.18  
 >  
 >기술 스택:  
@@ -57,8 +57,8 @@
 
 ---
 
-### 3. [세 번째 프로젝트](https://github.com/JungHyung2/gitio.io)
->세 번째 프로젝트 간략 소개  (팀 프로젝트)  
+### 3. [두 번째 프로젝트](https://github.com/JungHyung2/gitio.io)
+>두 번째 프로젝트 간략 소개  (팀 프로젝트)  
 >개발 기간: 2024.03.15 ~ 2024.04.15  
 >  
 >기술 스택:  
@@ -68,6 +68,6 @@
 >[프로젝트 상세 설명](https://github.com/leehakgun/mealjoy_owner) 참고
 >
 
-여기까지 읽어주셔서 감사합니다.
-부족한 부분이나 더 궁금하신 내용이 있다면 이슈로 남겨주시겨나, jaehee094503@gmail.com으로 연락주세요.
-감사합니다.
+</br>여기까지 읽어주셔서 감사합니다.
+</br>부족한 부분이나 더 궁금하신 내용이 있다면 이슈로 남겨주시겨나, jaehee094503@gmail.com으로 연락주세요.
+</br>감사합니다.
