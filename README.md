@@ -4,8 +4,7 @@
 </br>
 
 ## :pushpin: Intro
-(여기에 자기 소개)
-
+안녕하세요~
 </br>
 
 ## :pushpin: Contact
