@@ -47,7 +47,8 @@
 
 
 ### 세 번째 프로젝트[GPT를 활용한 메뉴추천과 주문및 웨이팅 플랫폼 서비스]
->자영업자용(https://github.com/leehakgun/mealjoy_owner) 고객용(https://github.com/Parkjinew/mealjoy_user)
+>자영업자용(https://github.com/leehakgun/mealjoy_owner)
+>고객용(https://github.com/Parkjinew/mealjoy_user)
 >관리자용(https://github.com/jjjjjjj12345/mealjoy_admin)
 >
 >세 번째 프로젝트 간략 소개 (팀 프로젝트)
@@ -71,7 +72,6 @@
 >[프로젝트 상세 설명](https://github.com/JungHyung2/gitio.io) 참고
 
 
----
 
 ### 1. 첫 번째 프로젝트 [아파트 데이터 분석]
 >아파트 데이터 분석 (반포자이팀)
