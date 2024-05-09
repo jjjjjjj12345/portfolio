@@ -75,10 +75,10 @@
 
 
 ### 2. 두 번째 프로젝트  (팀 프로젝트)(https://github.com/2023-SMHRD-IS-AI1/RepoUp)
->첫 번째 프로젝트 간략 소개  (팀 프로젝트)  
+>첫 번째 프로젝트 간략 소개  (팀 프로젝트)  <br>
 >개발 기간:2024.01.08 ~ 2024.01.24
 >  
->기술 스택:  
+>기술 스택:  <br>
 >Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
 >H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
 >  
@@ -87,8 +87,8 @@
 
 
 ### 1. 첫 번째 프로젝트 [아파트 데이터 분석]
->아파트 데이터 분석 (반포자이팀)
->개발 기간: 2023.11.08. ~ 2023.11.10
+>아파트 데이터 분석 (반포자이팀)<br>
+>개발 기간: 2023.11.08. ~ 2023.11.10<br>
 >기술 스택:
 >HTML/CSS / Python 3.9
 
