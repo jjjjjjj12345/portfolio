@@ -1,20 +1,19 @@
 # 도전과 성장을 좋아하는 개발자 강재희입니다.
->
+>개발자입니다.<br>
 >
 </br>
 
 ## :pushpin: Intro
-개발자로서, 팀의 구성원으로서 자신과 환경을 지속적으로 개선하고자 하는 의지가 보이는 사람.
+>개발자로서, 팀의 구성원으로서 자신과 환경을 지속적으로 개선하고자 하는 의지가 보이는 사람.<br>
+
 </br>
-## :pushpin: 경험사항 및 교육사항
 
+## :pushpin: Contact
+> - 이메일: jaehee094503@gmail.com
+> - 블로그: 
+> - 깃헙: https://github.com/jjjjjjj12345
 
-## :pushpin: 자격증
-
-
-## :pushpin: 수상내역
-아파트 데이터 분석 대상 - 스마트인재개발원
-
+</br>
 
 ## :pushpin: Stacks 기술 스택
 - JavaScript
@@ -28,7 +27,27 @@
 > </br>Java에서 제공하는 클래스와 메소드를 적절하게 사용할 수 있습니다.
 
 - Python
-></br> Python을 이용하여 기본적인 알고리즘 문제를 해결 할 수 있습니다.
+></br> 
+
+- 백엔드 : <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> 
+- 프론트엔드 : <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+- DBMS : <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
+- 머신러닝 : <img src="https://img.shields.io/badge/openai-412991?style=for-the-badge&logo=openai&logoColor=white">, <img src="https://img.shields.io/badge/LangChain-412991?style=for-the-badge&logo=LangChain&logoColor=white">
+
+</br>
+## :pushpin: 경험사항 및 교육사항
+> - 2023.09.27 ~ 2024.04.17. (1040시간)(2023 광주지역 산업구조 변화대응 등 특화훈련) 
+언어지능기반 분석서비스모델 개발자과정 수료 (스마트인재개발원)
+
+
+## :pushpin: 자격증
+
+
+## :pushpin: 수상내역
+아파트 데이터 분석 대상 - 스마트인재개발원
+
+
+Python을 이용하여 기본적인 알고리즘 문제를 해결 할 수 있습니다.
 
 - Git
 > </br>Git을 활용한 소스코드 버전 관리 및 협업을 할 수 있습니다.
@@ -37,10 +56,7 @@
 </br>
 
 
-## :pushpin: Contact
-> - 이메일: jaehee094503@gmail.com
-> - 블로그: 
-> - 깃헙: https://github.com/jjjjjjj12345
+
 
 ## :pushpin: Projects
 
